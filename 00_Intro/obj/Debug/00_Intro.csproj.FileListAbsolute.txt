@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\00_Intro\bin\Debug\00_Intro.exe.config
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\00_Intro\bin\Debug\00_Intro.exe
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\00_Intro\bin\Debug\00_Intro.pdb
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\00_Intro\obj\Debug\00_Intro.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\00_Intro\obj\Debug\00_Intro.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\00_Intro\obj\Debug\00_Intro.exe
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\00_Intro\obj\Debug\00_Intro.pdb
