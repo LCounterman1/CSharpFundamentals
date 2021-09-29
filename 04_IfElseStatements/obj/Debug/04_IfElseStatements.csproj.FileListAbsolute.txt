@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\04_IfElseStatements\bin\Debug\04_IfElseStatements.exe.config
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\04_IfElseStatements\bin\Debug\04_IfElseStatements.exe
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\04_IfElseStatements\bin\Debug\04_IfElseStatements.pdb
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\04_IfElseStatements\obj\Debug\04_IfElseStatements.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\04_IfElseStatements\obj\Debug\04_IfElseStatements.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\04_IfElseStatements\obj\Debug\04_IfElseStatements.exe
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\04_IfElseStatements\obj\Debug\04_IfElseStatements.pdb

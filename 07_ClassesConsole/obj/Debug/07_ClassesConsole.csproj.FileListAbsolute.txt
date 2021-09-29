@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\07_ClassesConsole\bin\Debug\07_ClassesConsole.exe.config
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\07_ClassesConsole\bin\Debug\07_ClassesConsole.exe
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\07_ClassesConsole\bin\Debug\07_ClassesConsole.pdb
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\07_ClassesConsole\bin\Debug\07_Classes(updated).dll
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\07_ClassesConsole\bin\Debug\07_Classes(updated).pdb
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\07_ClassesConsole\obj\Debug\07_ClassesConsole.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\07_ClassesConsole\obj\Debug\07_ClassesConsole.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\07_ClassesConsole\obj\Debug\07_ClassesConsole.csproj.CopyComplete
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\07_ClassesConsole\obj\Debug\07_ClassesConsole.exe
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\07_ClassesConsole\obj\Debug\07_ClassesConsole.pdb
